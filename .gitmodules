@@ -1,0 +1,3 @@
+[submodule "fancytui"]
+	path = fancytui
+	url = https://github.com/EhanAhamed/fancytui
