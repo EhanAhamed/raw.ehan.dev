@@ -7,3 +7,6 @@
 [submodule "purpurite/simple.css"]
 	path = purpurite/simple.css
 	url = https://github.com/purpurite/simple.css
+[submodule "purpurite/purpurite"]
+	path = purpurite/purpurite
+	url = https://github.com/purpurite/purpurite
