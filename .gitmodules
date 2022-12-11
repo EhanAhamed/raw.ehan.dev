@@ -1,3 +1,6 @@
 [submodule "fancytui"]
 	path = fancytui
 	url = https://github.com/EhanAhamed/fancytui
+[submodule "webCompounder"]
+	path = webCompounder
+	url = https://github.com/EhanAhamed/webCompounder
