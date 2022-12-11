@@ -4,3 +4,6 @@
 [submodule "webCompounder"]
 	path = webCompounder
 	url = https://github.com/EhanAhamed/webCompounder
+[submodule "purpurite/simple.css"]
+	path = purpurite/simple.css
+	url = https://github.com/purpurite/simple.css
