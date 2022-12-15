@@ -10,3 +10,6 @@
 [submodule "purpurite/purpurite"]
 	path = purpurite/purpurite
 	url = https://github.com/purpurite/purpurite
+[submodule "Quizlate"]
+	path = Quizlate
+	url = https://github.com/EhanAhamed/Quizlate
