@@ -13,3 +13,6 @@
 [submodule "Quizlate"]
 	path = Quizlate
 	url = https://github.com/EhanAhamed/Quizlate
+[submodule "purpurite/monkeytype"]
+	path = purpurite/monkeytype
+	url = https://github.com/purpurite/monkeytype
