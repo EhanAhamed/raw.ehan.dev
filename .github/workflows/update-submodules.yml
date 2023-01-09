@@ -1,0 +1,11 @@
+name: Update Git Submodules
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-submodules:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
